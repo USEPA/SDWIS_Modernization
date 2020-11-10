@@ -18,3 +18,5 @@ The RFI posting can be found at: https://beta.sam.gov/
 
 # EPA Disclaimer 
 Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by EPA. The EPA seal and logo shall not be used in any manner to imply endorsement of any commercial product or activity by EPA or the United States Government.
+
+All questions or communications associated with the Request for Information (RFI) must be directed to the Point of Contact for the RFI. 
