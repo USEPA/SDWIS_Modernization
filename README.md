@@ -10,7 +10,7 @@ The RFI posting can be found at: https://beta.sam.gov/
 **SDWIS Modernization RFI Response Form (.xlsx)**
 - For RFI Questions 1 and 2, companies MUST use this response form to submit your response for these two questions. The response form will not count against the 15-page response limit.
 
-**This repository includes reference documents identified in the "Additional Resources" section of the RFI.**
+**Reference files identified in the "Additional Resources/Details on programmatic objectives and system requirements" section of the RFI.**
 - 2013 SDWIS Business Requirements Document
 - SDWIS Modernization Base Functionality Document 2020-10-29
 - 2020 SDWIS Modernization Alternative Analysis Capability Scoring and Evaluation Criteria
