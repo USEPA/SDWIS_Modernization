@@ -4,7 +4,7 @@ This RFI is issued solely for information and planning purposes - it does not co
 
 
 
-The RFI posting can be found at: https://beta.sam.gov/ 
+The RFI posting can be found at: https://beta.sam.gov/opp/655215220b2948f4b201c1de95216dd2/view?index=opp&notice_type=s&page=1&organization_id=100081847
 
 # Files Available In This Repository
 **SDWIS Modernization RFI Response Form (.xlsx)**
